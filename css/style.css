@@ -41,7 +41,7 @@ p {
     position: relative;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
-/*
+
 !**************** Desktop *******************!
 @media (min-width: 992px) {
 }
@@ -51,4 +51,4 @@ p {
 !**************** Mobile *******************!
 @media (max-width: 767px) {
 }
-*/
+
